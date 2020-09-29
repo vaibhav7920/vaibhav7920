@@ -13,7 +13,7 @@ I am a developer who is passionate about  Web Developmnet. The few techs that I 
 
 <br>
 
-<p align = "center">
+<p align = "left">
 <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=vaibhav7920&show_icons=true&theme=tokyonight&line_height=40&count_private=true&hide=issues&include_all_commits=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7920&theme=tokyonight&line_height=40">
