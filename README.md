@@ -7,13 +7,13 @@ I am a developer who is passionate about  Web Developmnet. The few techs that I 
 - 🤝 Open for collaborations in Web Development.
 - 😊 Willing to contribute in opensource development projects.
 - 👍 Looking for opportunities to join as an intern/full time in Web Development.
-
+<br><br><br><br><br><br><br><br><br>
 <details open>
  <summary> 😇 <b>My Github Stats</b>: </summary>
 
 <br>
 
-<p align = "left">
+<p align = "center">
 <br>
   <img src = "https://github-readme-stats.vercel.app/api?username=vaibhav7920&show_icons=true&theme=tokyonight&line_height=40&count_private=true&hide=issues&include_all_commits=true">
   <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7920&theme=tokyonight&line_height=40">
