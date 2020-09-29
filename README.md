@@ -1,4 +1,4 @@
-## Hi 👋 I am Sanchit!
+## Hi 👋 I am Vaibhav!
 
 <img align = "right" src = "https://media.giphy.com/media/Y0b2MpUTfnrUa3jIM7/giphy.gif" width = "210">
 I am a developer who is passionate about  Web Developmnet. The few techs that I enjoy working on MERN stack. I am actively looking for opportunities in Web Development.
