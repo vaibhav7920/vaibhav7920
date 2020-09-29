@@ -15,8 +15,8 @@ I am a developer who is passionate about  Web Developmnet. The few techs that I 
 
 <p align = "center">
 <br>
-  <img src = "https://github-readme-stats.vercel.app/api?username=gupta-sanchit&show_icons=true&theme=tokyonight&line_height=40&count_private=true&hide=issues&include_all_commits=true">
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=gupta-sanchit&theme=tokyonight&hide=javascript&line_height=40">
+  <img src = "https://github-readme-stats.vercel.app/api?username=vaibhav7920&show_icons=true&theme=tokyonight&line_height=40&count_private=true&hide=issues&include_all_commits=true">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=vaibhav7920&theme=tokyonight&line_height=40">
 </p>
 
 </details>
